@@ -1,6 +1,10 @@
-body {
-  background-color: grey;
+.background {
+  background-color: blue;
+  padding: 10px 0px;
+  background-image
 }
-Main-header {
+.cringe {
+  font-weight: bold;
   color: white;
+  height: 50vh;
 }
