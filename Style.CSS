@@ -7,14 +7,14 @@ body {
   margin: auto;
   width: 80vw;
   padding-top: 5px;
-  border: solid #ff5722;
+  border: solid #9eefe5;
   background-color: #c5cae9;
 }
 .Header {
   text-align: center;
   margin: 25px 10%;
   padding-top: 5px;
-  border: solid #ff5722;
+  border: solid #9eefe5;
   color: #ffffff;
 }
 
@@ -23,5 +23,6 @@ body {
   margin: 50px auto;
   width: 80vw;
   color: #ffffff;
-  border: solid #ff5722;
+  border: solid #9eefe5;
+  background-color: #4f7cac;
 }
